@@ -4,9 +4,9 @@
 	
 <body>
 		
-<center><h1>SEPHORA French Quarter #1108</h1>
+<center><h1>SEPHORA Thunder Bay #870</h1>
 
-		<iframe src="frenchQuarter1108.htm" width=1200 height=95% border=0></iframe>
+		<iframe src="thunderBay870.htm" width=1200 height=95% border=0></iframe>
 </center>
 
 	</body>
