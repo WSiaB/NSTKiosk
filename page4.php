@@ -1,12 +1,12 @@
-<?php header("Refresh:30; url=index.php"); ?>
+<?php header("Refresh:30; url=page5.php"); ?>
 
 <html>
+	
+<body>
+		
+<center><h1>SEPHORA River Park #1118</h1>
 
-	<body>
-
-		<center><h1>SEPHORA Century City #78</h1>
-
-		<iframe src="centuryCity78.htm" width=1200 height=95% border=0></iframe>
+		<iframe src="riverPark1118.htm" width=1200 height=95% border=0></iframe>
 </center>
 
 	</body>

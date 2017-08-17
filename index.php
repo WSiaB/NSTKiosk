@@ -1,5 +1,5 @@
 <?php
-header("Refresh:90; url=page2.php");?>
+header("Refresh:90; url=page1.php");?>
 <!--
 $command="/sbin/ifconfig wlan0 | grep 'inet addr:' | cut -d: -f2 | awk '{ print $1}'";
 $localIP = exec ($command);

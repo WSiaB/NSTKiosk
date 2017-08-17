@@ -4,11 +4,11 @@
 	
 <body>
 		
-<center><h1>SEPHORA Ka Makana Ali'i #14</h1>
-		
-<iframe src="kaMakanaAlii14.htm" width=1200 height=95% border=0></iframe>
+<center><h1>SEPHORA Pike & Rose #1120</h1>
+
+		<iframe src="pikeAndRose1120.htm" width=1200 height=95% border=0></iframe>
 </center>
-	
-</body>
+
+	</body>
 
 </html>
