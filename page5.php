@@ -4,9 +4,9 @@
 	
 <body>
 		
-<center><h1>SEPHORA Oshawa #572</h1>
+<center><h1>SEPHORA Conestoga</h1>
 
-		<iframe src="oshawa572.htm" width=1200 height=95% border=0></iframe>
+		<iframe src="conestoga872.htm" width=1200 height=95% border=0></iframe>
 </center>
 
 	</body>

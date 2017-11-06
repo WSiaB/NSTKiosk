@@ -4,9 +4,9 @@
 	
 <body>
 		
-<center><h1>SEPHORA Denver Pavilions #1116</h1>
+<center><h1>SEPHORA West Edmonton</h1>
 
-		<iframe src="denverPavilions1116.htm" width=1200 height=95% border=0></iframe>
+		<iframe src="westEdmonton510.htm" width=1200 height=95% border=0></iframe>
 </center>
 
 	</body>

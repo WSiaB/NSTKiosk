@@ -1,0 +1,10 @@
+<!--Just below <head> tag add this:-->
+
+<script type="text/javascript">
+<!--
+window.onload = setTimeout('pageScroll()', 5000);
+function pageScroll() {
+	window.scrollBy(0,50);
+	scrolldelay = setTimeout('pageScroll()', 1500); 
+} 
+//--></script>

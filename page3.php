@@ -4,9 +4,9 @@
 	
 <body>
 		
-<center><h1>SEPHORA Pike & Rose #1120</h1>
+<center><h1>SEPHORA Ansonia</h1>
 
-		<iframe src="pikeAndRose1120.htm" width=1200 height=95% border=0></iframe>
+		<iframe src="ansonia312.htm" width=1200 height=95% border=0></iframe>
 </center>
 
 	</body>

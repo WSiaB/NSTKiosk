@@ -4,9 +4,9 @@
 	
 <body>
 		
-<center><h1>SEPHORA Stands UNITED</h1>
+<center><h1>SEPHORA New Sudbury</h1>
 
-		<iframe src="temp.htm" width=1200 height=95% border=0></iframe>
+		<iframe src="newSudbury874.htm" width=1200 height=95% border=0></iframe>
 </center>
 
 	</body>
